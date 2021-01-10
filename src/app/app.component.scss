@@ -1,0 +1,9 @@
+:host {
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+}
+ngx-monaco-editor {
+  width: 100%;
+  min-height: 300px;
+}
